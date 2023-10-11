@@ -1,0 +1,28 @@
+ User management(only for Admins and Employees(not for customers)):
+	
+1) Register
+	
+2)Login
+3)Logout
+
+
+4)Customers view or find books easly without going anywhere
+
+5)Customers can search books by title using search input or by clicking 
+  tags specified on the home page
+6)After customers select their books, then employees sells selected books 
+	to the customer by adding customer and purchase detail
+
+7)Admin can Add, Edit and Delete employees
+
+8)Admin can Add, Edit and Delete books
+
+9)Admin can Add, Edit and Delete purchases
+
+10)Admin can view, and Delete feedbacks
+
+11)Customers can give feedback
+
+12)Stores purchase history
+
+13)The header navbar only display for Admin
